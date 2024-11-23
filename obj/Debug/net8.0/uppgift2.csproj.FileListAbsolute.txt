@@ -1,0 +1,15 @@
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\bin\Debug\net8.0\uppgift2.exe
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\bin\Debug\net8.0\uppgift2.deps.json
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\bin\Debug\net8.0\uppgift2.runtimeconfig.json
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\bin\Debug\net8.0\uppgift2.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\bin\Debug\net8.0\uppgift2.pdb
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.AssemblyInfoInputs.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.AssemblyInfo.cs
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.csproj.CoreCompileInputs.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\refint\uppgift2.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.pdb
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.genruntimeconfig.cache
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\ref\uppgift2.dll
+C:\Users\Mnaka\OneDrive\Skrivbord\dotnetuppgifter\gruppuppgift2\uppgift2\obj\Debug\net8.0\uppgift2.sourcelink.json
